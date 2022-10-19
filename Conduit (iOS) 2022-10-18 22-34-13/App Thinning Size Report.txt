@@ -1,0 +1,36 @@
+
+App Thinning Size Report for All Variants of Conduit (iOS)
+
+Variant: Conduit-47302339-8020-451E-8757-C80074FE68EA.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 16.0] and [device: iPhone12,1, os-version: 16.0]
+App + On Demand Resources size: 5.1 MB compressed, 12.8 MB uncompressed
+App size: 5.1 MB compressed, 12.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Conduit-78AC2D86-D225-4643-A3FD-673277D388D5.ipa
+Supported variant descriptors: [device: iPhone13,1, os-version: 16.0], [device: iPhone10,3, os-version: 16.0], [device: iPhone14,4, os-version: 16.0], [device: iPhone13,4, os-version: 16.0], [device: iPhone11,6, os-version: 16.0], [device: iPhone14,7, os-version: 16.0], [device: iPhone13,3, os-version: 16.0], [device: iPhone15,2, os-version: 16.0], [device: iPhone11,2, os-version: 16.0], [device: iPhone12,3, os-version: 16.0], [device: iPhone14,2, os-version: 16.0], [device: iPhone12,5, os-version: 16.0], [device: iPhone14,8, os-version: 16.0], [device: iPhone14,5, os-version: 16.0], [device: iPhone11,4, os-version: 16.0], [device: iPhone15,3, os-version: 16.0], [device: iPhone10,5, os-version: 16.0], [device: iPhone14,3, os-version: 16.0], [device: iPhone10,6, os-version: 16.0], [device: iPhone13,2, os-version: 16.0], and [device: iPhone10,2, os-version: 16.0]
+App + On Demand Resources size: 5.1 MB compressed, 12.8 MB uncompressed
+App size: 5.1 MB compressed, 12.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Conduit-80F21893-3001-4E67-B04E-F98AC44BC99C.ipa
+Supported variant descriptors: [device: iPhone14,6, os-version: 16.0], [device: iPhone10,1, os-version: 16.0], [device: iPhone12,8, os-version: 16.0], and [device: iPhone10,4, os-version: 16.0]
+App + On Demand Resources size: 5.1 MB compressed, 12.8 MB uncompressed
+App size: 5.1 MB compressed, 12.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Conduit-D70D9387-0054-4F7C-AFAC-6BCF740A00BC.ipa
+Supported variant descriptors: [device: iPad8,10, os-version: 16.0], [device: iPad8,4, os-version: 16.0], [device: iPad7,5, os-version: 16.0], [device: iPad13,4, os-version: 16.0], [device: iPad13,11, os-version: 16.0], [device: iPad8,2, os-version: 16.0], [device: iPad7,1, os-version: 16.0], [device: iPad8,12, os-version: 16.0], [device: iPad6,8, os-version: 16.0], [device: MacFamily20,1, os-version: 16.0], [device: iPad8,3, os-version: 16.0], [device: iPad7,3, os-version: 16.0], [device: iPad14,2, os-version: 16.0], [device: iPad11,2, os-version: 16.0], [device: iPad6,12, os-version: 16.0], [device: iPad11,1, os-version: 16.0], [device: iPad8,5, os-version: 16.0], [device: iPad13,7, os-version: 16.0], [device: iPad11,7, os-version: 16.0], [device: iPad13,9, os-version: 16.0], [device: iPad7,4, os-version: 16.0], [device: iPad13,10, os-version: 16.0], [device: iPad8,1, os-version: 16.0], [device: iPad13,2, os-version: 16.0], [device: iPad13,16, os-version: 16.0], [device: iPad11,4, os-version: 16.0], [device: iPad7,12, os-version: 16.0], [device: iPad7,2, os-version: 16.0], [device: iPad8,9, os-version: 16.0], [device: iPad6,3, os-version: 16.0], [device: iPad8,7, os-version: 16.0], [device: iPad6,11, os-version: 16.0], [device: iPad13,1, os-version: 16.0], [device: iPad6,4, os-version: 16.0], [device: iPad12,2, os-version: 16.0], [device: iPad12,1, os-version: 16.0], [device: iPad7,11, os-version: 16.0], [device: iPad11,3, os-version: 16.0], [device: iPad13,5, os-version: 16.0], [device: iPad13,8, os-version: 16.0], [device: iPad7,6, os-version: 16.0], [device: iPad6,7, os-version: 16.0], [device: iPad11,6, os-version: 16.0], [device: iPad13,6, os-version: 16.0], [device: iPad8,6, os-version: 16.0], [device: iPad13,17, os-version: 16.0], [device: iPad8,8, os-version: 16.0], [device: iPad14,1, os-version: 16.0], and [device: iPad8,11, os-version: 16.0]
+App + On Demand Resources size: 5.1 MB compressed, 12.8 MB uncompressed
+App size: 5.1 MB compressed, 12.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Conduit.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 5.7 MB compressed, 13.4 MB uncompressed
+App size: 5.7 MB compressed, 13.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
